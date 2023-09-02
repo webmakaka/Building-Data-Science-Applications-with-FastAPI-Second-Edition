@@ -4,4 +4,6 @@
 
 <br/>
 
-### [Chapter 03](./docs/chapter03.md)
+### [Prepare Environment](./docs/01-env.md)
+
+### [RUN Project 03](./docs/chapter03.md)
