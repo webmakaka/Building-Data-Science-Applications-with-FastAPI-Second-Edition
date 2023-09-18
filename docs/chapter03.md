@@ -3,6 +3,8 @@
 <br/>
 
 ```
+$ cd ${project_root}
+$ python -m venv venv
 $ uvicorn chapter03_project.app:app
 ```
 
